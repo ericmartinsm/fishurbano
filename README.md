@@ -1,4 +1,4 @@
-##Objetico
+##Objetivo
 
 Por em pratica conhecimento adquirido atraves de cursos
 
