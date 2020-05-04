@@ -1,20 +1,23 @@
-##Objetivo
+<h3>Objetivo</h3>
 
 Por em pratica conhecimento adquirido atraves de cursos
 
-##Iniciando o projeto
 
--Abra o Pront na pasta do projeto e execute a seguinte linha de comando:" json-server --watch original.json"
+<h3>Iniciando o projeto</h3>
 
--Execute `ng serve` para um servidor dev. Navegue para `http: // localhost: 4200 /`. O aplicativo será recarregado automaticamente se você alterar qualquer um dos arquivos de origem.
+-Execute `npm i` 
 
-#Ferramentas & Linguagens
+-Execute a seguinte linha de comando:`json-server --watch original.json`
+
+-Execute `ng serve`.Navegue para `http: // localhost: 4200 /`. O aplicativo será recarregado automaticamente se você alterar qualquer um dos arquivos de origem.
+
+<h3>Ferramentas & Linguagens</h3>
 
 Foram usadas:
 
--HTML
--CSS3
--ANGULAR
--BOOTSTRAP
--API-REST
--JSON-SERVER
+-HTML</br>
+-CSS3</br>
+-ANGULAR</br>
+-BOOTSTRAP</br>
+-API-REST</br>
+-JSON-SERVER</br>
