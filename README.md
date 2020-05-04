@@ -2,6 +2,9 @@
 
 Por em pratica conhecimento adquirido atraves de cursos
 
+<h3>Prévia</h3>
+
+![Previa](https://github.com/ericmartinsm/fishurbano/blob/master/giphy.gif)
 
 <h3>Iniciando o projeto</h3>
 
